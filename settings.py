@@ -1,0 +1,6 @@
+WIDTH = 1280
+HEIGHT = 720
+FPS = 0
+
+BLOCK_SIZE = 64
+
